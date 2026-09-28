@@ -1,0 +1,6 @@
+{
+  "name": "AETHER-9: Holographic Dragon Flight & Spatial Computing Matrix",
+  "description": "Technical VR/Spatial Computing Game Framework, 3D Volumetric Holographic Simulator, 9-Dimensional Flight Physics, and 432Hz Spatial Audio Blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
